@@ -8,6 +8,7 @@
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2578-split-with-minimum-sum](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2578-split-with-minimum-sum/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
