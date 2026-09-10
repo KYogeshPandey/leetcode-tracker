@@ -1,8 +1,7 @@
 class Solution {
     public int countMatches(List<List<String>> items, String ruleKey, String ruleValue) {
 
-        int count = 0;
-        int index = 0;
+        int count = 0, index = 0, j = items.size();
 
         if(ruleKey.equals("type")){
             index = 0;
@@ -14,7 +13,7 @@ class Solution {
             index = 2;
         }
 
-        for (int i = 0; i < items.size(); i ++){
+        for (int i = 0; i < j; i ++){
             if(items.get(i).get(index).equals(ruleValue)){
                 count++;
             }
