@@ -21,6 +21,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1773-count-items-matching-a-rule](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2000-reverse-prefix-of-word/) | Easy |
@@ -47,6 +48,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0217-contains-duplicate/) | Easy |
+| [1773-count-items-matching-a-rule](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
