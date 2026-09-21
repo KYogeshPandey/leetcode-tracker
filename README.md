@@ -53,6 +53,7 @@
 | [1773-count-items-matching-a-rule](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,6 +63,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0169-majority-element/) | Easy |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,6 +72,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
