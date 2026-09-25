@@ -11,9 +11,6 @@ class Solution {
             rev = rev * 10 + rem;
             x = x / 10;
         }
-        if (rev == original){
-            return true;
-        }
-        return false;
+        return original == rev;
     }
 }
