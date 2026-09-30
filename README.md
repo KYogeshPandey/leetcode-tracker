@@ -24,6 +24,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0020-valid-parentheses/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -89,6 +90,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0020-valid-parentheses/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
