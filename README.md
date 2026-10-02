@@ -24,6 +24,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0022-generate-parentheses/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
@@ -115,8 +116,17 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0022-generate-parentheses/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0503-next-greater-element-ii](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0503-next-greater-element-ii/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0022-generate-parentheses/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
