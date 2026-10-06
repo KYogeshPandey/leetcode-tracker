@@ -20,6 +20,7 @@
 | [0217-contains-duplicate](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0217-contains-duplicate/) | Easy |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/3081-replace-question-marks-in-string-to-minimize-its-value/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,6 +36,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/3081-replace-question-marks-in-string-to-minimize-its-value/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,6 +45,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2578-split-with-minimum-sum](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2578-split-with-minimum-sum/) | Easy |
+| [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/3081-replace-question-marks-in-string-to-minimize-its-value/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,6 +55,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2578-split-with-minimum-sum](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2578-split-with-minimum-sum/) | Easy |
+| [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/3081-replace-question-marks-in-string-to-minimize-its-value/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +84,7 @@
 | [0169-majority-element](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0169-majority-element/) | Easy |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
+| [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/3081-replace-question-marks-in-string-to-minimize-its-value/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -145,4 +150,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0022-generate-parentheses/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/3081-replace-question-marks-in-string-to-minimize-its-value/) | Medium |
 <!---LeetCode Topics End-->
