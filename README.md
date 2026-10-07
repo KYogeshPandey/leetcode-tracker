@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0009-palindrome-number/) | Easy |
+| [0326-power-of-three](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0326-power-of-three/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -127,6 +128,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0206-reverse-linked-list/) | Easy |
+| [0326-power-of-three](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0326-power-of-three/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
