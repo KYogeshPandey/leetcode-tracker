@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0009-palindrome-number/) | Easy |
+| [0231-power-of-two](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0326-power-of-three/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
@@ -128,6 +129,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0206-reverse-linked-list/) | Easy |
+| [0231-power-of-two](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0326-power-of-three/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -156,4 +158,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/3081-replace-question-marks-in-string-to-minimize-its-value/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
