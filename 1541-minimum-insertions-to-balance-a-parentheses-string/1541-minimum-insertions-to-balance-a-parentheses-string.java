@@ -1,36 +1,38 @@
-import java.util.Stack;
-
 class Solution {
     public int minInsertions(String s) {
+        
         Stack<Character> stack = new Stack<>();
         int ans = 0;
+        int i = s.length()-1;
 
-        for (int i = 0; i < s.length(); i++) {
-            char ch = s.charAt(i);
-
-            if (ch == '(') {
-                stack.push(ch);
-            } else {
-                // Do consecutive ')' mil gaye toh pair complete
-                if (i + 1 < s.length() && s.charAt(i + 1) == ')') {
-                    i++;
-                } else {
-                    // Ek ')' insert karna padega
-                    ans++;
+        while(i >= 0) {
+            char c = s.charAt(i);
+            if (c == ')') {
+                if (i-1 >= 0 && c == s.charAt(i-1)) {
+                    stack.push(c);
+                    stack.push(c);
+                    i -= 2;
                 }
-
-                if (!stack.isEmpty()) {
-                    stack.pop();
-                } else {
-                    // Matching '(' nahi hai
-                    ans++;
+                else {
+                    ans += 1;
+                    stack.push(c);
+                    stack.push(c);
+                    i -= 1;
                 }
             }
+            else {
+                if (stack.size() >= 2) {
+                    stack.pop();
+                    stack.pop();
+                    i -= 1;
+                }
+                else {
+                    ans += 2 - stack.size();
+                    i -= 1;
+                }
+            }  
         }
-
-        // Har unmatched '(' ke liye do ')' chahiye
-        ans += stack.size() * 2;
-
+        ans += stack.size()/2;
         return ans;
     }
 }
