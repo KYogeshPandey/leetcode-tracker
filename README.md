@@ -21,6 +21,7 @@
 | [0169-majority-element](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0217-contains-duplicate/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/3081-replace-question-marks-in-string-to-minimize-its-value/) | Medium |
@@ -74,6 +75,7 @@
 | [0503-next-greater-element-ii](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0867-transpose-matrix](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0867-transpose-matrix/) | Easy |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1773-count-items-matching-a-rule/) | Easy |
@@ -88,6 +90,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0169-majority-element/) | Easy |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/3081-replace-question-marks-in-string-to-minimize-its-value/) | Medium |
