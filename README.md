@@ -38,6 +38,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1773-count-items-matching-a-rule](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -49,6 +50,7 @@
 | ------- | ------- |
 | [0678-valid-parenthesis-string](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2578-split-with-minimum-sum](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2578-split-with-minimum-sum/) | Easy |
@@ -119,6 +121,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -149,6 +152,7 @@
 | [0856-score-of-parentheses](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
