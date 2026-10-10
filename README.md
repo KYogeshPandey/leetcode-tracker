@@ -53,6 +53,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2578-split-with-minimum-sum](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2578-split-with-minimum-sum/) | Easy |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/3081-replace-question-marks-in-string-to-minimize-its-value/) | Medium |
 ## Sorting
@@ -63,6 +64,7 @@
 | [0747-largest-number-at-least-twice-of-others](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2578-split-with-minimum-sum](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2578-split-with-minimum-sum/) | Easy |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/3081-replace-question-marks-in-string-to-minimize-its-value/) | Medium |
 ## Number Theory
@@ -83,6 +85,7 @@
 | [1773-count-items-matching-a-rule](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -104,6 +107,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -171,6 +175,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/3081-replace-question-marks-in-string-to-minimize-its-value/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
