@@ -1,57 +1,37 @@
 class Solution {
-    public long minSumSquareDiff(int[] nums1, int[] nums2,
-                                 int k1, int k2) {
+    public long minSumSquareDiff(int[] nums1, int[] nums2, int k1, int k2) {
+        long[] cnt = new long[100001];
         int n = nums1.length;
-        int[] diff = new int[n];
-
-        int max = 0;
-        long total = 0;
+        long sumDiff = 0;
+        int maxDiff = 0;
 
         for (int i = 0; i < n; i++) {
-            diff[i] = Math.abs(nums1[i] - nums2[i]);
-            max = Math.max(max, diff[i]);
-            total += diff[i];
+            int d = Math.abs(nums1[i] - nums2[i]);
+            cnt[d]++;
+            sumDiff += d;
+            maxDiff = Math.max(maxDiff, d);
         }
 
-        long k = (long) k1 + k2;
+        long chances = (long) k1 + k2;
 
-        if (k >= total) return 0;
+        if (sumDiff <= chances) return 0;
 
-        int low = 0, high = max;
+        for (int v = maxDiff; v >= 1 && chances > 0; v--) {
+            if (cnt[v] == 0) continue;
 
-        while (low < high) {
-            int mid = low + (high - low) / 2;
-            long operations = 0;
+            long here = cnt[v];
+            long move = Math.min(here, chances);
 
-            for (int d : diff) {
-                if (d > mid) {
-                    operations += d - mid;
-                }
-            }
-
-            if (operations <= k) {
-                high = mid;
-            } else {
-                low = mid + 1;
-            }
+            cnt[v] -= move;
+            cnt[v - 1] += move;
+            chances -= move;
         }
 
-        int level = low;
-        long used = 0;
         long ans = 0;
 
-        for (int d : diff) {
-            if (d > level) {
-                used += d - level;
-                ans += (long) level * level;
-            } else {
-                ans += (long) d * d;
-            }
+        for (int v = 1; v <= maxDiff; v++) {
+            ans += cnt[v] * (long) v * v;
         }
-
-        long remaining = k - used;
-
-        ans -= remaining * (2L * level - 1);
 
         return ans;
     }
