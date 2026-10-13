@@ -58,6 +58,7 @@
 | [2578-split-with-minimum-sum](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2578-split-with-minimum-sum/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/3081-replace-question-marks-in-string-to-minimize-its-value/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,6 +70,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2578-split-with-minimum-sum](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2578-split-with-minimum-sum/) | Easy |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/3081-replace-question-marks-in-string-to-minimize-its-value/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +93,7 @@
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
