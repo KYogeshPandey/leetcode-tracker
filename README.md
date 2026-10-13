@@ -24,6 +24,7 @@
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/3081-replace-question-marks-in-string-to-minimize-its-value/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -55,6 +56,7 @@
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2578-split-with-minimum-sum](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2578-split-with-minimum-sum/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/3081-replace-question-marks-in-string-to-minimize-its-value/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -88,6 +90,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -186,6 +189,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0231-power-of-two/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
