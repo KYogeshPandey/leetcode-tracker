@@ -34,6 +34,7 @@
 | [0020-valid-parentheses](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0151-reverse-words-in-a-string](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -122,6 +123,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
