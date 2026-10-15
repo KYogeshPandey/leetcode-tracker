@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0009-palindrome-number/) | Easy |
 | [0231-power-of-two](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0326-power-of-three/) | Easy |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
