@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0009-palindrome-number/) | Easy |
 | [0231-power-of-two](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0342-power-of-four/) | Easy |
 | [0412-fizz-buzz](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0412-fizz-buzz/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -171,6 +172,7 @@
 | [0206-reverse-linked-list](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0342-power-of-four/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -206,6 +208,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0231-power-of-two/) | Easy |
+| [0342-power-of-four](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0342-power-of-four/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
