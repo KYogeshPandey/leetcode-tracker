@@ -92,6 +92,7 @@
 | [0169-majority-element](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0217-contains-duplicate/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0867-transpose-matrix](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0867-transpose-matrix/) | Easy |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
@@ -127,6 +128,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
