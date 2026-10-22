@@ -133,6 +133,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0143-reorder-list](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0143-reorder-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2000-reverse-prefix-of-word/) | Easy |
@@ -142,6 +143,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0143-reorder-list](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0143-reorder-list/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0856-score-of-parentheses/) | Medium |
@@ -168,6 +170,7 @@
 | [0002-add-two-numbers](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0143-reorder-list](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0707-design-linked-list](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0707-design-linked-list/) | Medium |
@@ -177,6 +180,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0143-reorder-list](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0326-power-of-three/) | Easy |
