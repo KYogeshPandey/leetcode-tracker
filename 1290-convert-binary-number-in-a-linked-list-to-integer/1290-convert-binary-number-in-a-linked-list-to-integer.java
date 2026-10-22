@@ -12,7 +12,7 @@ class Solution {
     public int getDecimalValue(ListNode head) {
         String res = "";
         while (head != null) {
-            res += head.val;
+            res += String.valueOf(head.val);
             head = head.next;
         }
         return Integer.parseInt(res,2);  
