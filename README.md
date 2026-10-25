@@ -90,6 +90,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0162-find-peak-element](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0217-contains-duplicate/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -131,6 +132,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0162-find-peak-element](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0162-find-peak-element/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
