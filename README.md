@@ -99,6 +99,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0867-transpose-matrix](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0867-transpose-matrix/) | Easy |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
+| [1095-find-in-mountain-array](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1773-count-items-matching-a-rule/) | Easy |
@@ -135,6 +136,7 @@
 | [0162-find-peak-element](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0162-find-peak-element/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [1095-find-in-mountain-array](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1095-find-in-mountain-array/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
@@ -262,4 +264,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [1095-find-in-mountain-array](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1095-find-in-mountain-array/) | Hard |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1095-find-in-mountain-array](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1095-find-in-mountain-array/) | Hard |
 <!---LeetCode Topics End-->
