@@ -12,11 +12,10 @@ class Solution {
             return true;
         }
 
-        if (nums[0] <= target) {
-            return binarySearch(nums, target, 0, pivot-1) != -1;
+        if (nums[0] > target) {
+        return binarySearch(nums, target, pivot + 1, nums.length - 1) != -1;
         }
-        return binarySearch(nums, target, pivot+1, nums.length-1) != -1;
-
+        return binarySearch(nums, target, 0, pivot - 1) != -1;
     }
     int binarySearch(int[] arr, int target, int start, int end) {
         
