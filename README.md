@@ -93,6 +93,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0217-contains-duplicate/) | Easy |
@@ -139,6 +140,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0162-find-peak-element/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
