@@ -59,6 +59,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
@@ -97,6 +98,7 @@
 | [0162-find-peak-element](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0217-contains-duplicate/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
@@ -142,6 +144,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0162-find-peak-element/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1095-find-in-mountain-array/) | Hard |
@@ -227,6 +230,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0410-split-array-largest-sum](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -277,4 +281,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1095-find-in-mountain-array](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1095-find-in-mountain-array/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0410-split-array-largest-sum/) | Hard |
 <!---LeetCode Topics End-->
