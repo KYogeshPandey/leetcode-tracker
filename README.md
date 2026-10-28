@@ -52,6 +52,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -164,6 +165,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## Stack
