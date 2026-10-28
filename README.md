@@ -122,6 +122,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3979-maximum-valid-pair-sum](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/3979-maximum-valid-pair-sum/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -265,6 +266,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [3979-maximum-valid-pair-sum](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/3979-maximum-valid-pair-sum/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
