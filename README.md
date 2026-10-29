@@ -177,6 +177,7 @@
 | [0032-longest-valid-parentheses](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0143-reorder-list](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0143-reorder-list/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0856-score-of-parentheses/) | Medium |
@@ -276,6 +277,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0707-design-linked-list](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0707-design-linked-list/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
@@ -308,4 +310,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
