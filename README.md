@@ -94,6 +94,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0031-next-permutation](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -163,6 +164,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0031-next-permutation](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0031-next-permutation/) | Medium |
 | [0143-reorder-list](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0143-reorder-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0876-middle-of-the-linked-list/) | Easy |
