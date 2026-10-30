@@ -266,6 +266,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0301-remove-invalid-parentheses/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -320,16 +321,19 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0199-binary-tree-right-side-view/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0199-binary-tree-right-side-view/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0199-binary-tree-right-side-view/) | Medium |
 <!---LeetCode Topics End-->
