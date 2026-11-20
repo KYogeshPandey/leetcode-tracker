@@ -29,6 +29,7 @@
 | [0169-majority-element](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0217-contains-duplicate/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0500-keyboard-row](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0500-keyboard-row/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/1590-make-sum-divisible-by-p/) | Medium |
@@ -48,6 +49,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0412-fizz-buzz](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0412-fizz-buzz/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0500-keyboard-row](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0500-keyboard-row/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -107,6 +109,7 @@
 | [0217-contains-duplicate](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0217-contains-duplicate/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0500-keyboard-row](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0500-keyboard-row/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
