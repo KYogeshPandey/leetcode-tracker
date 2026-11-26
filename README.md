@@ -42,6 +42,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0014-longest-common-prefix](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0032-longest-valid-parentheses/) | Hard |
@@ -98,6 +99,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0014-longest-common-prefix/) | Easy |
 | [0031-next-permutation](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
@@ -344,4 +346,8 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0199-binary-tree-right-side-view/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/KYogeshPandey/leetcode-tracker/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
